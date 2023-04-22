@@ -1,0 +1,36 @@
+2023-04-22 17:30:30.226186	Collect	Download data failed
+2023-04-22 17:30:30.843594	Preprocess	Transform data successfully
+2023-04-22 17:30:30.856295	Preprocess	Add missing dates successfully
+2023-04-22 17:30:30.881685	Preprocess	Preproccess data successfully
+2023-04-22 17:30:32.803677	Visualize	Vizualize Figure 1 successfully
+2023-04-22 17:30:32.867292	Visualize	Vizualize Figure 2 successfully
+2023-04-22 17:30:32.909816	Visualize	Vizualize Figure 3 successfully
+2023-04-22 17:30:32.965734	Visualize	Combine successfully
+2023-04-22 17:30:33.027979	Visualize	Export successfully at report.html
+2023-04-22 17:35:19.975068	Collect	Download data successfully
+2023-04-22 17:35:20.621945	Preprocess	Transform data successfully
+2023-04-22 17:35:20.639094	Preprocess	Add missing dates successfully
+2023-04-22 17:35:20.661681	Preprocess	Preproccess data successfully
+2023-04-22 17:35:22.195277	Visualize	Vizualize Figure 1 successfully
+2023-04-22 17:35:22.256617	Visualize	Vizualize Figure 2 successfully
+2023-04-22 17:35:22.304294	Visualize	Vizualize Figure 3 successfully
+2023-04-22 17:35:22.374014	Visualize	Combine successfully
+2023-04-22 17:35:22.440697	Visualize	Export successfully at report.html
+2023-04-22 17:36:28.453756	Collect	Download data successfully
+2023-04-22 17:36:29.160276	Preprocess	Transform data successfully
+2023-04-22 17:36:29.174770	Preprocess	Add missing dates successfully
+2023-04-22 17:36:29.198000	Preprocess	Preproccess data successfully
+2023-04-22 17:36:30.820297	Visualize	Vizualize Figure 1 successfully
+2023-04-22 17:36:30.884463	Visualize	Vizualize Figure 2 successfully
+2023-04-22 17:36:30.931244	Visualize	Vizualize Figure 3 successfully
+2023-04-22 17:36:31.014498	Visualize	Combine successfully
+2023-04-22 17:36:31.074065	Visualize	Export successfully at report.html
+2023-04-22 17:37:09.801944	Collect	Download data successfully
+2023-04-22 17:37:10.591153	Preprocess	Transform data successfully
+2023-04-22 17:37:10.616689	Preprocess	Add missing dates successfully
+2023-04-22 17:37:10.641837	Preprocess	Preproccess data successfully
+2023-04-22 17:37:12.533717	Visualize	Vizualize Figure 1 successfully
+2023-04-22 17:37:12.651951	Visualize	Vizualize Figure 2 successfully
+2023-04-22 17:37:12.771417	Visualize	Vizualize Figure 3 successfully
+2023-04-22 17:37:13.166132	Visualize	Combine successfully
+2023-04-22 17:37:13.450482	Visualize	Export successfully at report.html
